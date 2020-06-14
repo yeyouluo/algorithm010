@@ -22,7 +22,7 @@
 
 ### 算法笔记
 
-![](imgs/mindmap-001.png)
+![](./imgs/mindmap-001.png)
 
 ## 关于学习方法的思考总结
 
